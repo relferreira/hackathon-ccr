@@ -2,7 +2,9 @@
 
 ## API
 
-Projeto contendo o Back-end responsável por toda a manipulação dos dados e interface com o Banco de Dados (DynamoDB)
+Projeto contendo o Back-end responsável por toda a manipulação dos dados, interface com o Banco de Dados (DynamoDB) e por servir o modelo de Machine Learning criado para inferir as possíveis doenças do motorista, baseado em seu histórico.
+
+O código referente ao treinamento deste modelo pode ser encontrado no branch `feat/model_disease`
 
 ## BOT
 
@@ -12,3 +14,5 @@ Projeto responsável pela lógica conversacional e integração com os serviços
 ## Front-end
 
 Projeto do dashboard
+
+URL de acesso: https://master.d13kj8p5rapodr.amplifyapp.com/
