@@ -1,5 +1,7 @@
 # Hackathon CCR
 
+Vídeo explicativo: https://www.youtube.com/watch?v=aLTFI08v6Z4&feature=youtu.be
+
 ## API
 
 Projeto contendo o Back-end responsável por toda a manipulação dos dados, interface com o Banco de Dados (DynamoDB) e por servir o modelo de Machine Learning criado para inferir as possíveis doenças do motorista, baseado em seu histórico.
