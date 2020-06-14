@@ -10,7 +10,13 @@ O código referente ao treinamento deste modelo pode ser encontrado no branch `f
 
 ## BOT
 
-Projeto responsável pela lógica conversacional e integração com os serviços de voz da Microsoft e com o Twillio
+Projeto responsável pela lógica conversacional e integração com:
+
+- TTS da Microsoft
+- NLU Dialogflow
+- Integração Whatsapp Twillio
+
+Caso seja necessário, solicite as chaves de acesso.
 
 
 ## Front-end
