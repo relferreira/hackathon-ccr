@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/relferreira/ccr-frontend
+[submodule "api"]
+	path = api
+	url = https://github.com/danieldominguete/ccrbackend
+[submodule "bot"]
+	path = bot
+	url = https://github.com/danieldominguete/ccrmiddleware
